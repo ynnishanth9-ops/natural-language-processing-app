@@ -1,17 +1,17 @@
-# =Natural Language Processing Application
+# Natural Language Processing Application
 
-=A sophisticated application designed to process and analyze natural language data using advanced algorithms.
+A sophisticated application designed to process and analyze natural language data using advanced algorithms.
 
 ## Features
 
-- =Text analysis
+- Text analysis
 - Sentiment detection
 - Entity recognition
 - User-friendly interface
 
 ## Tech Stack
 
-=Python · LangChain · OpenAI API
+Python · LangChain · OpenAI API
 
 ## Project Purpose
 
@@ -19,15 +19,17 @@ This project is part of an AI automation portfolio focused on building practical
 
 ## How It Works
 
-Input data
-    ↓
-AI processing workflow
-    ↓
-Generated analysis / response
-    ↓
-Output report
+Input data  
+↓  
+AI processing workflow  
+↓  
+Generated analysis / response  
+↓  
+Output report  
 
 ## Setup
 
+Install dependencies:
+
+```bash
 pip install -r requirements.txt
-python app.py
